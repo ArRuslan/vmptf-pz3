@@ -31,7 +31,7 @@ class MainActivity : ComponentActivity() {
                 ) {
                     ActivityButton(text = "Task 1", cls = Task1Activity::class.java)
                     ActivityButton(text = "Task 2", cls = Task2Activity::class.java)
-                    ActivityButton(text = "Task 3", cls = Task1Activity::class.java)
+                    ActivityButton(text = "Task 3", cls = Task3Activity::class.java)
                     ActivityButton(text = "Task 4", cls = Task1Activity::class.java)
                 }
             }

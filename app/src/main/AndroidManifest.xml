@@ -13,6 +13,9 @@
         android:theme="@style/Theme.VMPtFPz3"
         tools:targetApi="31">
         <activity
+            android:name=".Task3Activity"
+            android:exported="false" />
+        <activity
             android:name=".Task2Activity"
             android:exported="false" />
         <activity
